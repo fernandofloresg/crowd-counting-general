@@ -1,0 +1,86 @@
+INFO:root:-----Epoch 1-----
+INFO:root:Epoch 1 train,  Cost 50.2 sec
+INFO:root:{'train_mae': 14.171677042643228, 'train_mse': 27.80280964327272, 'train_loss': 0.079863586773475}
+INFO:root:-----Epoch 2-----
+INFO:root:Epoch 2 train,  Cost 52.5 sec
+INFO:root:-----Epoch 1-----
+INFO:root:Epoch 1 train,  Cost 55.1 sec
+INFO:root:{'train_mae': 14.662326494852701, 'train_mse': 31.54136594547516, 'train_loss': 0.09015243897835414}
+INFO:root:-----Epoch 2-----
+INFO:root:Epoch 2 train,  Cost 46.8 sec
+INFO:root:-----Epoch 2-----
+INFO:root:Epoch 2 test,  Cost 316.7 sec
+DEBUG:root:save best mae 231.17 model epoch 2
+DEBUG:root:save best mse 367.90 model epoch 2
+INFO:root:{'train_mae': 13.372929312388102, 'train_mse': 26.00293703363141, 'train_loss': 0.08426174556215604, 'test_mae': 231.17396830464457, 'test_mse': 367.89603598828774}
+INFO:root:-----Epoch 3-----
+INFO:root:Epoch 3 train,  Cost 49.4 sec
+INFO:root:{'train_mae': 13.60544157663981, 'train_mse': 28.182634443855022, 'train_loss': 0.08493798688054084}
+INFO:root:-----Epoch 4-----
+INFO:root:Epoch 4 train,  Cost 49.4 sec
+INFO:root:-----Epoch 4-----
+INFO:root:Epoch 4 test,  Cost 315.6 sec
+DEBUG:root:save best mae 160.68 model epoch 4
+DEBUG:root:save best mse 260.66 model epoch 4
+INFO:root:{'train_mae': 11.20042273203532, 'train_mse': 26.69696548114959, 'train_loss': 0.07673328717549642, 'test_mae': 160.67897851126534, 'test_mse': 260.66323573157297}
+INFO:root:-----Epoch 5-----
+INFO:root:Epoch 5 train,  Cost 49.8 sec
+INFO:root:{'train_mae': 10.199069442749023, 'train_mse': 21.599972701349788, 'train_loss': 0.08060928344726563}
+INFO:root:-----Epoch 6-----
+INFO:root:Epoch 6 train,  Cost 49.8 sec
+INFO:root:-----Epoch 6-----
+INFO:root:Epoch 6 test,  Cost 329.7 sec
+DEBUG:root:save best mae 116.53 model epoch 6
+DEBUG:root:save best mse 169.30 model epoch 6
+INFO:root:{'train_mae': 10.196379356384277, 'train_mse': 22.10836423585843, 'train_loss': 0.07993719488382339, 'test_mae': 116.52789547679188, 'test_mse': 169.29543293004716}
+INFO:root:-----Epoch 7-----
+INFO:root:Epoch 7 train,  Cost 52.0 sec
+INFO:root:{'train_mae': 8.720609226226806, 'train_mse': 18.62964449123034, 'train_loss': 0.07273009757200877}
+INFO:root:-----Epoch 8-----
+INFO:root:Epoch 8 train,  Cost 52.6 sec
+INFO:root:-----Epoch 8-----
+INFO:root:Epoch 8 test,  Cost 406.3 sec
+INFO:root:{'train_mae': 10.408389600118001, 'train_mse': 22.64514670904748, 'train_loss': 0.07873538593451182, 'test_mae': 116.55436597551618, 'test_mse': 184.33514140559447}
+INFO:root:-----Epoch 9-----
+INFO:root:Epoch 9 train,  Cost 64.5 sec
+INFO:root:{'train_mae': 8.824223073323568, 'train_mse': 21.288631307751018, 'train_loss': 0.0780994231502215}
+INFO:root:-----Epoch 10-----
+INFO:root:Epoch 10 train,  Cost 61.7 sec
+INFO:root:-----Epoch 10-----
+INFO:root:Epoch 10 test,  Cost 416.4 sec
+DEBUG:root:save best mae 102.64 model epoch 10
+DEBUG:root:save best mse 156.47 model epoch 10
+INFO:root:{'train_mae': 8.126067244211832, 'train_mse': 15.878349643662995, 'train_loss': 0.07545345599452655, 'test_mae': 102.64146402379968, 'test_mse': 156.47491493362048}
+INFO:root:-----Epoch 11-----
+INFO:root:Epoch 11 train,  Cost 61.2 sec
+INFO:root:{'train_mae': 6.2820182768503825, 'train_mse': 10.989066407591563, 'train_loss': 0.0665758758286635}
+INFO:root:-----Epoch 12-----
+INFO:root:Epoch 12 train,  Cost 62.0 sec
+INFO:root:-----Epoch 12-----
+INFO:root:Epoch 12 test,  Cost 411.8 sec
+INFO:root:{'train_mae': 8.980429226557414, 'train_mse': 18.11726556306849, 'train_loss': 0.07596818372607231, 'test_mae': 109.1237438746861, 'test_mse': 175.26422890114654}
+INFO:root:-----Epoch 13-----
+INFO:root:Epoch 13 train,  Cost 62.3 sec
+INFO:root:{'train_mae': 7.483279863993327, 'train_mse': 15.13233442552786, 'train_loss': 0.06912345757087071}
+INFO:root:-----Epoch 14-----
+INFO:root:Epoch 14 train,  Cost 64.4 sec
+INFO:root:-----Epoch 14-----
+INFO:root:Epoch 14 test,  Cost 365.6 sec
+DEBUG:root:save best mae 96.86 model epoch 14
+DEBUG:root:save best mse 142.25 model epoch 14
+INFO:root:{'train_mae': 8.308422298431397, 'train_mse': 16.176694462268426, 'train_loss': 0.07102125455935795, 'test_mae': 96.86020369058127, 'test_mse': 142.25460080446058}
+INFO:root:-----Epoch 15-----
+INFO:root:Epoch 15 train,  Cost 53.2 sec
+INFO:root:{'train_mae': 8.29904259999593, 'train_mse': 18.579118980979022, 'train_loss': 0.07449056893587112}
+INFO:root:-----Epoch 16-----
+INFO:root:Epoch 16 train,  Cost 52.5 sec
+INFO:root:-----Epoch 16-----
+INFO:root:Epoch 16 test,  Cost 337.6 sec
+DEBUG:root:save best mae 92.92 model epoch 16
+DEBUG:root:save best mse 139.33 model epoch 16
+INFO:root:{'train_mae': 7.7728441619873045, 'train_mse': 14.890916179466585, 'train_loss': 0.07026989847421646, 'test_mae': 92.92180073916258, 'test_mse': 139.3306507737019}
+INFO:root:-----Epoch 17-----
+INFO:root:Epoch 17 train,  Cost 50.7 sec
+INFO:root:{'train_mae': 7.078836228052775, 'train_mse': 17.610061096166294, 'train_loss': 0.06807165041565895}
+INFO:root:-----Epoch 18-----
+INFO:root:Epoch 18 train,  Cost 54.0 sec

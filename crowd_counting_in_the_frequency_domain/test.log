@@ -1,0 +1,10 @@
+0
+source ~/anaconda3/bin/activate
+conda env list
+conda activate crowd_counting_freq
+
+1
+python dataset_preparation.py SHTCA
+
+
+python train.py SHTCA model1

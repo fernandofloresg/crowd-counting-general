@@ -1,0 +1,5 @@
+crowd_counting_in_the_frequency_domain/__pycache__
+crowd_counting_in_the_frequency_domain/Dataset/**
+crowd_counting_in_the_frequency_domain/Model/__pycache__
+crowd_counting_in_the_frequency_domain/Model/model_pretrain/**
+**/__pycache__
